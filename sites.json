@@ -173,5 +173,10 @@
         "url": "https:\/\/url-go.lol",
         "title": "URL Shortener",
         "category": "service"
+    },
+    {
+        "url": "https:\/\/koehn.lol",
+        "title": "Koehn's Personal Site",
+        "category": "personal"
     }
 ]
